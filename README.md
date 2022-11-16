@@ -1,2 +1,2 @@
 # ESP32_Examples
-Codes that I wrote while studying EXP32
+Codes that I wrote while learning EXP32
