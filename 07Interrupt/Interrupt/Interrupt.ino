@@ -1,6 +1,8 @@
 /*
   Interrupcao
 
+  Esse codigo da um toggle no led a 200ms por meio de interrupcao no timer 0.
+
   formula da frequencia do timer: timer speed (Hz) = clock speed (Mhz) / prescaler
   a velocidade de clock no ESP32 eh de 80MHz
 
